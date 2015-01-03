@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=color\ labels
+comment0.target=RoomPanel(java.awt.Color,\ java.lang.String[])
+comment1.params=color\ label1\ pic\ labels
+comment1.target=RoomPanel(java.awt.Color,\ java.lang.String,\ javax.swing.JLabel,\ java.lang.String[])
+numComments=2

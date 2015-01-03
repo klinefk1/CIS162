@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WorldMap()
+comment1.params=fileName
+comment1.target=javax.swing.JLabel\ image(java.lang.String)
+comment2.params=current
+comment2.target=void\ emptySpace(java.lang.String)
+comment3.params=current
+comment3.target=void\ moveTardis(java.lang.String)
+comment4.params=
+comment4.target=void\ redrawMap()
+numComments=5
